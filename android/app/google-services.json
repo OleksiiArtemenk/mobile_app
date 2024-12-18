@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "828016466157",
+    "firebase_url": "https://students-492f4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "students-492f4",
+    "storage_bucket": "students-492f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828016466157:android:4c743509351f91640214e4",
+        "android_client_info": {
+          "package_name": "com.example.oleksiiartemenko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAM4acZox3GaVuYUkcoJcPDaNd5q-Rc2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
